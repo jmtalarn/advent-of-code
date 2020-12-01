@@ -1,6 +1,20 @@
 {
-  "name": "typescript",
-  "version": "0.0.0",
-  "private": true,
-  "dependencies": {}
+	"name": "advent-of-code",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"day1": "node DAY1/index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jmtalarn/advent-of-code.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/jmtalarn/advent-of-code/issues"
+	},
+	"homepage": "https://github.com/jmtalarn/advent-of-code#readme"
 }
