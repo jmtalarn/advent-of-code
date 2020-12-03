@@ -4,7 +4,9 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"day1": "node DAY1/index.js"
+		"day1": "node DAY1/index.js",
+		"day2": "node DAY2/index.js",
+		"day3": "node DAY3/index.js"
 	},
 	"repository": {
 		"type": "git",
