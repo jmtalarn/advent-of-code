@@ -18,7 +18,8 @@
 		"day12": "node DAY12/index.js",
 		"day13": "node DAY13/index.js",
 		"day14": "node DAY14/index.js",
-		"day15": "node DAY15/index.js"
+		"day15": "node DAY15/index.js",
+		"day16": "node DAY16/index.js"
 	},
 	"repository": {
 		"type": "git",
