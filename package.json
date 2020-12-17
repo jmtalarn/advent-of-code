@@ -19,7 +19,13 @@
 		"day13": "node DAY13/index.js",
 		"day14": "node DAY14/index.js",
 		"day15": "node DAY15/index.js",
-		"day16": "node DAY16/index.js"
+		"day16": "node DAY16/index.js",
+		"day17": "node DAY17/index.js",
+		"day18": "node DAY18/index.js",
+		"day19": "node DAY19/index.js",
+		"day20": "node DAY20/index.js",
+		"day21": "node DAY21/index.js",
+		"day22": "node DAY22/index.js"
 	},
 	"repository": {
 		"type": "git",
@@ -31,5 +37,8 @@
 	"bugs": {
 		"url": "https://github.com/jmtalarn/advent-of-code/issues"
 	},
-	"homepage": "https://github.com/jmtalarn/advent-of-code#readme"
+	"homepage": "https://github.com/jmtalarn/advent-of-code#readme",
+	"devDependencies": {
+		"eslint": "^7.15.0"
+	}
 }
